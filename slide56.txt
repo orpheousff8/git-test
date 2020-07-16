@@ -13,3 +13,24 @@ these brilliant-hued hibiscus -
 A lovely moonlight.
 
 - Matsuo Basho (1644-1694), line 13th was modified.
+
+
+
+
+
+** no conflict case **
+
+A summer river being crossed
+how pleasing
+with sandals in my hands!
+
+Light of the moon
+Moves west, flowers' shadows
+Creep eastward.
+
+In the moonlight,
+The color and scent of the wisteria
+Seems far away.
+
+Yosa Buson (1716-1784)
+Added another Haiku to the end of file.
