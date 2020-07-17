@@ -6,3 +6,7 @@ line5 Feature-2
 line5 Master
 
 line7 Master
+
+test git rebase on Feature-2 (No conflict)
+
+line12 Feature-2
