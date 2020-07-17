@@ -3,3 +3,6 @@ test git rebase on Feature-2 (conflict)
 line3 Feature-2
 
 line5 Feature-2
+line5 Master
+
+line7 Master
