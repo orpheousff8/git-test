@@ -1,4 +1,4 @@
-test git rebase on Master
+test git rebase on Master (conflict)
 
 line3 Master
 
