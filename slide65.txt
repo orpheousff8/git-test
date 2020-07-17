@@ -1,5 +1,5 @@
-test git rebase on Master (conflict)
+test git rebase on Feature-2 (conflict)
 
-line3 Master
+line3 Feature-2
 
-line5 Master
+line5 Feature-2
