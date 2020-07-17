@@ -1,3 +1,5 @@
 test git rebase on Master
 
-line3
+line3 Master
+
+line5 Master
